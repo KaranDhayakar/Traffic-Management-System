@@ -1,5 +1,6 @@
 # Traffic-Management-System
 This a Traffic Management system using ultrasonic sensor. 
+
 Summary of Working:
 The sensors pick up signals at the junction.  
 This signals are given to the board to deicde whether there is a car in front of it or not. 
